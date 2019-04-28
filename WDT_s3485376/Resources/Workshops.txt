@@ -1,0 +1,62 @@
+﻿[
+  {
+    "ID": 1,
+    "Location": "CBD",
+    "Type": "MORNING",
+    "Max": 4
+  },
+  {
+    "ID": 2,
+    "Location": "CBD",
+    "Type": "AFTERNOON",
+    "Max": 5
+  },
+  {
+    "ID": 3,
+    "Location": "North",
+    "Type": "MORNING",
+    "Max": 9
+  },
+  {
+    "ID": 4,
+    "Location": "North",
+    "Type": "AFTERNOON",
+    "Max": 3
+  },
+  {
+    "ID":  5,
+    "Location": "South",
+    "Type": "MORNING",
+    "Max": 3
+  },
+  {
+    "ID":  6,
+    "Location": "South",
+    "Type": "AFTERNOON",
+    "Max": 5
+  },
+  {
+    "ID":  7,
+    "Location": "East",
+    "Type": "MORNING",
+    "Max": 6
+  },
+  {
+    "ID":  8,
+    "Location": "East",
+    "Type": "AFTERNOON",
+    "Max": 5
+  },
+  {
+    "ID":  9,
+    "Location": "West",
+    "Type": "MORNING",
+    "Max": 3
+  },
+  {
+    "ID":  10,
+    "Location": "West",
+    "Type": "AFTERNOON",
+    "Max": 2
+  }
+]

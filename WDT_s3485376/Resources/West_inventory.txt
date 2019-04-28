@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "Name": "Facial Mask",
+    "StockLevel": 9,
+    "Price": 3.0
+  },
+  {
+    "Id": 2,
+    "Name": "Liquid flammable gas (per litre)",
+    "StockLevel": 5,
+    "Price": 8.0
+  },
+  {
+    "Id": 3,
+    "Name": "Torch lighter",
+    "StockLevel": 10,
+    "Price": 15.0
+  },
+  {
+    "Id": 4,
+    "Name": "Magician's Book",
+    "StockLevel": 10,
+    "Price": 50.0
+  },
+  {
+    "Id": 5,
+    "Name": "Balloons (per 100 pieces)",
+    "StockLevel": 10,
+    "Price": 5.0
+  },
+  {
+    "Id": 6,
+    "Name": "Genie Lamp",
+    "StockLevel": 10,
+    "Price": 8.5
+  },
+  {
+    "Id": 7,
+    "Name": "Dove",
+    "StockLevel": 10,
+    "Price": 20.0
+  },
+  {
+    "Id": 8,
+    "Name": "Flower Boquette",
+    "StockLevel": 10,
+    "Price": 8.5
+  },
+  {
+    "Id": 9,
+    "Name": "Boots",
+    "StockLevel": 10,
+    "Price": 10.0
+  },
+  {
+    "Id": 10,
+    "Name": "Gloves",
+    "StockLevel": 10,
+    "Price": 5.0
+  },
+  {
+    "Id": 11,
+    "Name": "Rope (per 5m)",
+    "StockLevel": 10,
+    "Price": 10.0
+  },
+  {
+    "Id": 12,
+    "Name": "Hat",
+    "StockLevel": 10,
+    "Price": 6.5
+  },
+  {
+    "Id": 13,
+    "Name": "Svengali Deck",
+    "StockLevel": 10,
+    "Price": 6.0
+  },
+  {
+    "Id": 14,
+    "Name": "Knife",
+    "StockLevel": 10,
+    "Price": 15.0
+  },
+  {
+    "Id": 15,
+    "Name": "Floating Hankerchief",
+    "StockLevel": 10,
+    "Price": 3.5
+  },
+  {
+    "Id": 16,
+    "Name": "Wand",
+    "StockLevel": 1,
+    "Price": 7.0
+  }
+]

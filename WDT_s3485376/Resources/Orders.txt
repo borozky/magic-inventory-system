@@ -1,0 +1,92 @@
+[
+  {
+    "ID": 1,
+    "Location": "West",
+    "DiscountRate": 0.1,
+    "DiscountPrice": 4.0,
+    "SubTotal": 40.0,
+    "GrandTotal": 36.0,
+    "orderLines": [
+      {
+        "ProductName": "Liquid flammable gas (per litre)",
+        "UnitPrice": 8.0,
+        "Qty": 5
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Location": "CBD",
+    "DiscountRate": 0.0,
+    "DiscountPrice": 0.0,
+    "SubTotal": 28.0,
+    "GrandTotal": 28.0,
+    "orderLines": [
+      {
+        "ProductName": "Wand",
+        "UnitPrice": 7.0,
+        "Qty": 4
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Location": "CBD",
+    "DiscountRate": 0.0,
+    "DiscountPrice": 0.0,
+    "SubTotal": 50.0,
+    "GrandTotal": 50.0,
+    "orderLines": [
+      {
+        "ProductName": "Rabbit",
+        "UnitPrice": 50.0,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Location": "CBD",
+    "DiscountRate": 0.0,
+    "DiscountPrice": 0.0,
+    "SubTotal": 35.0,
+    "GrandTotal": 35.0,
+    "orderLines": [
+      {
+        "ProductName": "Floating Hankerchief",
+        "UnitPrice": 3.5,
+        "Qty": 10
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Location": "CBD",
+    "DiscountRate": 0.1,
+    "DiscountPrice": 5.0,
+    "SubTotal": 50.0,
+    "GrandTotal": 45.0,
+    "orderLines": [
+      {
+        "ProductName": "Rabbit",
+        "UnitPrice": 50.0,
+        "Qty": 1
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Location": "CBD",
+    "DiscountRate": 0.1,
+    "DiscountPrice": 5.0,
+    "SubTotal": 50.0,
+    "GrandTotal": 45.0,
+    "orderLines": [
+      {
+        "ProductName": "Rabbit",
+        "UnitPrice": 50.0,
+        "Qty": 1
+      }
+    ]
+  }
+]

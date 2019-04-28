@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rabbit",
+    "StockLevel": 40,
+    "Price": 50.0
+  },
+  {
+    "Id": 2,
+    "Name": "Hat",
+    "StockLevel": 15,
+    "Price": 6.5
+  },
+  {
+    "Id": 3,
+    "Name": "Svengali Deck",
+    "StockLevel": 70,
+    "Price": 6.0
+  },
+  {
+    "Id": 4,
+    "Name": "Floating Hankerchief",
+    "StockLevel": 150,
+    "Price": 3.5
+  },
+  {
+    "Id": 5,
+    "Name": "Wand",
+    "StockLevel": 10,
+    "Price": 7.0
+  },
+  {
+    "Id": 6,
+    "Name": "Table",
+    "StockLevel": 20,
+    "Price": 50.0
+  },
+  {
+    "Id": 7,
+    "Name": "Knife",
+    "StockLevel": 34,
+    "Price": 15.0
+  },
+  {
+    "Id": 8,
+    "Name": "Rope (per 5m)",
+    "StockLevel": 81,
+    "Price": 10.0
+  },
+  {
+    "Id": 9,
+    "Name": "Gloves",
+    "StockLevel": 20,
+    "Price": 5.0
+  },
+  {
+    "Id": 10,
+    "Name": "Boots",
+    "StockLevel": 20,
+    "Price": 10.0
+  },
+  {
+    "Id": 11,
+    "Name": "Flower Boquette",
+    "StockLevel": 2,
+    "Price": 8.5
+  },
+  {
+    "Id": 12,
+    "Name": "Dove",
+    "StockLevel": 70,
+    "Price": 20.0
+  },
+  {
+    "Id": 13,
+    "Name": "Genie Lamp",
+    "StockLevel": 30,
+    "Price": 8.5
+  },
+  {
+    "Id": 14,
+    "Name": "Black Tux",
+    "StockLevel": 5,
+    "Price": 330.0
+  },
+  {
+    "Id": 15,
+    "Name": "White Tux",
+    "StockLevel": 4,
+    "Price": 350.0
+  },
+  {
+    "Id": 16,
+    "Name": "Balloons (per 100 pieces)",
+    "StockLevel": 10,
+    "Price": 5.0
+  },
+  {
+    "Id": 17,
+    "Name": "Magician's Book",
+    "StockLevel": 20,
+    "Price": 50.0
+  },
+  {
+    "Id": 18,
+    "Name": "Torch lighter",
+    "StockLevel": 15,
+    "Price": 15.0
+  },
+  {
+    "Id": 19,
+    "Name": "Liquid flammable gas (per litre)",
+    "StockLevel": 10,
+    "Price": 8.0
+  },
+  {
+    "Id": 20,
+    "Name": "Facial Mask",
+    "StockLevel": 90,
+    "Price": 3.0
+  }
+]
